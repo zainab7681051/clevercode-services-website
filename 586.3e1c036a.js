@@ -1,0 +1,1 @@
+(self.webpackChunkclevercode_services=self.webpackChunkclevercode_services||[]).push([[586],{6586:function(e,s,c){e.exports=c.p+"assets/menu-about-7503ded3b7a.png"}}]);

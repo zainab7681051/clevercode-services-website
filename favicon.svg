@@ -1,0 +1,14 @@
+<!-- red:#D00000, dark:#1C3144, grey:#A2AEBB, yellow:#FFBA08 -->
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background square -->
+  <rect width="512" height="512" fill="#D00000" />
+
+  <!-- First diagonal slice with subtle curved edge -->
+  <path d="M 0 0 Q 400 112 0 512 L 0 0 Z" fill="#1C3144" />
+  
+  <!-- Second diagonal slice with subtle curved edge -->
+  <path d="M 0 0 L 512 0 Q 400 400 0 0 Z" fill="#FFBA08" />
+  
+  <!-- Third diagonal slice with subtle curved edge -->
+  <path d="M 512 0 L 512 512 Q 100 450 512 0 Z" fill="#A2AEBB" />
+</svg>

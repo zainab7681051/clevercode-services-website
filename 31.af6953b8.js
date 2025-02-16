@@ -1,0 +1,1 @@
+(self.webpackChunkclevercode_services=self.webpackChunkclevercode_services||[]).push([[31],{8031:function(e,c,s){e.exports=s.p+"assets/menu-pricing-7502f3e2dc3.png"}}]);
